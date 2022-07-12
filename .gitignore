@@ -17,6 +17,9 @@ docs/api-documentation.md
 /html-docs
 docs/dce/
 
+# Mac
+.DS_Store
+
 ## Terraform
 # Local .terraform directories
 **/.terraform/*
