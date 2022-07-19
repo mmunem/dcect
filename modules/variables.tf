@@ -94,7 +94,7 @@ variable "check_budget_enabled" {
 }
 variable "budget_notification_from_email" {
   type    = string
-  default = "notifications@example.com"
+  default = "notifications@dcemail.dae.mn"
 }
 
 variable "budget_notification_bcc_emails" {
