@@ -207,7 +207,7 @@ variable "max_lease_period" {
 variable "principal_budget_amount" {
   type        = number
   description = "User Principal's budget amount for given principal budget period"
-  default     = 1000
+  default     = 0.02
 }
 
 variable "principal_budget_period" {
