@@ -5,6 +5,7 @@ terraform {
 provider "aws" {
   region  = var.aws_region
   version = "2.65.0"
+  profile = "dcecognito"
 }
 
 # Current AWS Account User
